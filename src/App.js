@@ -1,5 +1,6 @@
 import React from 'react';
 import { createGlobalStyle } from 'styled-components'
+import { Navbar } from './Navbar/Navbar';
 
 const GlobalStyle = createGlobalStyle`
   body {
@@ -16,7 +17,7 @@ function App() {
   return (
     <>
       <GlobalStyle />
-      <h1>Quatros</h1>
+      <Navbar />
       <div>Hello Quatros</div>
     </>
   );
