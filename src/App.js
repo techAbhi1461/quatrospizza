@@ -1,10 +1,12 @@
 import React from 'react';
 import { createGlobalStyle } from 'styled-components'
 import { Navbar } from './Navbar/Navbar';
+import { Banner } from './Banner/Banner';
 
 const GlobalStyle = createGlobalStyle`
   body {
     margin: 0;
+    padding: 0;
     font-family: 'Open Sans', sans-serif;
   }
 
@@ -19,7 +21,7 @@ function App() {
     <>
       <GlobalStyle />
       <Navbar />
-      <div>Hello Quatros</div>
+      <Banner />
     </>
   );
 }
