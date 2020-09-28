@@ -19,7 +19,7 @@ const Logo = styled(Title) `
 export function Navbar() {
     return <NavbarStyled>
         <Logo>
-            Quatros <span role='img' aria-label='pizza slice'>🍕</span>
+            Quatros my <span role='img' aria-label='pizza slice'>🍕</span>
         </Logo>
     </NavbarStyled>
 }
