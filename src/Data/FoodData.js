@@ -52,7 +52,7 @@ export const foodItems = [
     },
     {
         name: 'Fries',
-        img: "img/fries.jpeg",
+        img: "img/fries.JPEG",
         section: 'Sides',
         price: 2
     },
