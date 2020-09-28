@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/quatrospizza/static/css/main.d498bfb3.chunk.css",
-    "main.js": "/quatrospizza/static/js/main.a72eaea1.chunk.js",
-    "main.js.map": "/quatrospizza/static/js/main.a72eaea1.chunk.js.map",
+    "main.js": "/quatrospizza/static/js/main.70e4adea.chunk.js",
+    "main.js.map": "/quatrospizza/static/js/main.70e4adea.chunk.js.map",
     "runtime-main.js": "/quatrospizza/static/js/runtime-main.4fd78ff4.js",
     "runtime-main.js.map": "/quatrospizza/static/js/runtime-main.4fd78ff4.js.map",
     "static/js/2.ddca2095.chunk.js": "/quatrospizza/static/js/2.ddca2095.chunk.js",
     "static/js/2.ddca2095.chunk.js.map": "/quatrospizza/static/js/2.ddca2095.chunk.js.map",
     "index.html": "/quatrospizza/index.html",
-    "precache-manifest.9c7d0e8a594e5360a8d4f538429049a9.js": "/quatrospizza/precache-manifest.9c7d0e8a594e5360a8d4f538429049a9.js",
+    "precache-manifest.c9e8cf14e884cd0460f5317e776285c3.js": "/quatrospizza/precache-manifest.c9e8cf14e884cd0460f5317e776285c3.js",
     "service-worker.js": "/quatrospizza/service-worker.js",
     "static/css/main.d498bfb3.chunk.css.map": "/quatrospizza/static/css/main.d498bfb3.chunk.css.map",
     "static/js/2.ddca2095.chunk.js.LICENSE.txt": "/quatrospizza/static/js/2.ddca2095.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4fd78ff4.js",
     "static/js/2.ddca2095.chunk.js",
     "static/css/main.d498bfb3.chunk.css",
-    "static/js/main.a72eaea1.chunk.js"
+    "static/js/main.70e4adea.chunk.js"
   ]
 }
