@@ -10,56 +10,57 @@ export const foodItems = [
     {
         name: 'Cheese Pizza',
         // img: '/img/pizza.PNG',
-        img: 'img/pizza.PNG',
+        img: process.env.PUBLIC_URL + '/img/pizza.PNG',
         section: 'Pizza',
         price: 3
     },
     {
         name: 'Pepperoni Pizza',
-        img: 'img/pizza2.jpeg',
+        img: process.env.PUBLIC_URL + '/img/pizza2.JPEG',
         section: 'Pizza',
         price: 5
     },
     {
         name: 'Chicken Pizza',
-        img: '/img/chicken-pizza.jpeg',
+        img: process.env.PUBLIC_URL + '/img/chicken-pizza.jpeg',
         section: 'Pizza',
         price: 5
     },
     {
         name: 'Veggie Pizza',
-        img: '/img/healthy-pizza.jpeg',
+        img: process.env.PUBLIC_URL + '/img/healthy-pizza.jpeg',
         section: 'Pizza',
         price: 5
     },
     {
         name: 'Burger',
-        img: '/img/burger.JPEG',
+        img: process.env.PUBLIC_URL + '/img/burger.JPEG',
         section: 'Sandwich',
         price: 8
     },
     {
         name: 'Gyro',
-        img: '/img/gyro.jpeg',
+        img: process.env.PUBLIC_URL + '/img/gyro.jpeg',
         section: 'Sandwich',
         price: 8
     },
     {
         name: 'Shrimp PoBoy',
-        img: '/img/sandwich.jpeg',
+        img: process.env.PUBLIC_URL + '/img/sandwich.jpeg',
         section: 'Sandwich',
         price: 7
     },
     {
         name: 'Fries',
-        img: "img/fries.JPEG",
+        img: process.env.PUBLIC_URL + '/img/fries.JPEG',
         section: 'Sides',
         price: 2
     },
     {
         price: 1,
         name: 'Soda',
-        img: '/img/coke.jpg',
+        // img: '/img/coke.JPEG',
+        img: process.env.PUBLIC_URL + '/img/coke.JPEG',
         section: 'Drinks',
         choices: ["Coke", "Sprite", "Fanta", "Root Bear"]
     }
