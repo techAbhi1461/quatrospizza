@@ -16,7 +16,7 @@ export const foodItems = [
     },
     {
         name: 'Pepperoni Pizza',
-        img: '/img/pizza2.jpeg',
+        img: 'img/pizza2.jpeg',
         section: 'Pizza',
         price: 5
     },
