@@ -22,13 +22,13 @@ export const foodItems = [
     },
     {
         name: 'Chicken Pizza',
-        img: process.env.PUBLIC_URL + '/img/chicken-pizza.jpeg',
+        img: process.env.PUBLIC_URL + '/img/chicken-pizza.JPEG',
         section: 'Pizza',
         price: 5
     },
     {
         name: 'Veggie Pizza',
-        img: process.env.PUBLIC_URL + '/img/healthy-pizza.jpeg',
+        img: process.env.PUBLIC_URL + '/img/healthy-pizza.JPEG',
         section: 'Pizza',
         price: 5
     },
@@ -40,13 +40,13 @@ export const foodItems = [
     },
     {
         name: 'Gyro',
-        img: process.env.PUBLIC_URL + '/img/gyro.jpeg',
+        img: process.env.PUBLIC_URL + '/img/gyro.JPEG',
         section: 'Sandwich',
         price: 8
     },
     {
         name: 'Shrimp PoBoy',
-        img: process.env.PUBLIC_URL + '/img/sandwich.jpeg',
+        img: process.env.PUBLIC_URL + '/img/sandwich.JPEG',
         section: 'Sandwich',
         price: 7
     },
