@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8daca75cc89b0a57af08ab85ec89c0e",
+    "revision": "e80560e4dc26627122269d3b8c992f63",
     "url": "/quatrospizza/index.html"
   },
   {
-    "revision": "dbede612ac7653a87983",
+    "revision": "0b48cc892da90a5e4919",
     "url": "/quatrospizza/static/css/main.d498bfb3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quatrospizza/static/js/2.ddca2095.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dbede612ac7653a87983",
-    "url": "/quatrospizza/static/js/main.325e55e7.chunk.js"
+    "revision": "0b48cc892da90a5e4919",
+    "url": "/quatrospizza/static/js/main.e4439f21.chunk.js"
   },
   {
     "revision": "d5a559f696479db13270",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/quatrospizza/precache-manifest.df4e540e28f09eed32700e08cc74a44f.js"
+  "/quatrospizza/precache-manifest.0ceaebea1adbf427e1390775f447fb2b.js"
 );
 
 self.addEventListener('message', (event) => {
