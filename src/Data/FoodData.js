@@ -9,7 +9,8 @@ export const foodItems = [
 
     {
         name: 'Cheese Pizza',
-        img: '/img/pizza.PNG',
+        // img: '/img/pizza.PNG',
+        img: 'http://techAbhi1461.github.io/quatrospizza/img/pizza.png',
         section: 'Pizza',
         price: 3
     },
